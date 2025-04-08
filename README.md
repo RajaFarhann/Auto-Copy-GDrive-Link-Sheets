@@ -65,25 +65,27 @@ function listPdfFilesToSpecificSheet() {
   });
 }
 ```
-6. Ubah **ID_FOLDER_KAMU** sesuai dengan yang anda miliki di Folder Google Drive anda. <br>
-   Misal di Folder Google Drive saya, yaitu:
+6. Ubah **ID_FOLDER_KAMU** sesuai dengan yang anda miliki di _Folder Google Drive_ anda. <br>
+   Misal di _Folder Google Drive_ saya, yaitu:
    ![image](https://github.com/user-attachments/assets/7f25a340-aead-444a-917a-8e0cb86c0da6)
    <br>
-   dan ubah **NAMA_SHEETS** sesuai dengan yang anda miliki di Google Sheets anda. <br>
-   Misal di Google Sheets saya, yaitu:
+   dan ubah **NAMA_SHEETS** sesuai dengan yang anda miliki di _Google Sheets_ anda. <br>
+   Misal di _Google Sheets_ saya, yaitu:
    ![image](https://github.com/user-attachments/assets/3b3ca943-f9b6-430e-bea8-b6463ea6e19a)
 
-7. Save code nya, lalu klik _**Run**_
+7. Save _code_ nya, lalu klik _**Run**_
 
-8. Jika muncul pesan **Authorization required**, klik saja **Review permissions**
+8. Jika muncul pesan _**Authorization required**_, klik saja _**Review permissions**_
    ![image](https://github.com/user-attachments/assets/4ef5f2f9-62f2-4b8c-b1c5-5157e2d22d22)
-   Pilih **Advanced** lalu klik **Go To Copy Sertifikat (unsafe)**
+   <br>
+   Pilih _**Advanced**_ lalu klik _**Go To Copy Sertifikat (unsafe)**_
    ![image](https://github.com/user-attachments/assets/02ff93e2-3fe5-4261-9937-ad677a5595af)
-   Klik **Select all** dan klik **Continue**
+   <br>
+   Klik _**Select all**_ dan klik _**Continue**_
    ![image](https://github.com/user-attachments/assets/f1f720e3-d22c-4a25-8d7c-7d3d1b88feae)
 
-9. Jika di **Execution log** terdapat pesan **Execution Started**, berarti script berfungsi dan jika sudah ada pesan **Execution completed** berarti script sudah selesai
+10. Jika di _**Execution log**_ terdapat pesan _**Execution Started**_, berarti _script_ berfungsi dan jika sudah ada pesan _**Execution completed**_ berarti _script_ sudah selesai
    ![image](https://github.com/user-attachments/assets/28f397ae-2e09-4921-989c-0bd2073392a5)
 
-10. Buka kembali Google Sheets anda dan link sertifikat Google Drive sudah berada di Sheet anda (sertifikat berurutan sesuai dengan nomor)
+11. Buka kembali _**Google Sheets**_ anda dan _link_ sertifikat _Google Drive_ sudah berada di _**Sheet**_ anda (sertifikat berurutan sesuai dengan nomor)
     ![image](https://github.com/user-attachments/assets/ced96602-5239-47a2-af55-761d88c22cbd)
