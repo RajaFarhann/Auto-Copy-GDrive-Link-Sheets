@@ -8,10 +8,10 @@
 2. Siapkan _Google Sheets_ untuk memuat _link Google Drive_
 
 ## Tahapan
-1. Siapkan Folder Google Drive yang berisi sertifikat
+1. Siapkan _Folder Google Drive_ yang berisi sertifikat
 ![image](https://github.com/user-attachments/assets/ca936548-6fb5-4c9f-9c50-1a9b9da6ea6e)
 
-2. Siapkan Google Sheets kosong
+2. Siapkan _Google Sheets_ kosong
 ![image](https://github.com/user-attachments/assets/5dc45424-ea81-41b9-b91e-914c277d6169)
 
 3. Selanjutnya buka _tab **Extensions**_, lalu pilih _**App Script**_
