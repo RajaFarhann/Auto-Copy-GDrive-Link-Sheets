@@ -89,3 +89,6 @@ function listPdfFilesToSpecificSheet() {
 
 11. Buka kembali _**Google Sheets**_ anda dan _link_ sertifikat _Google Drive_ sudah berada di _**Sheet**_ anda (sertifikat berurutan sesuai dengan nomor)
     ![image](https://github.com/user-attachments/assets/ced96602-5239-47a2-af55-761d88c22cbd)
+
+## NOTE
+**Anda bisa mengkombinasikan script ini dengan script [Blast Sertfikat via Email](https://github.com/infinitelearning-ibmacademy-hcrh/email-blaster)**
